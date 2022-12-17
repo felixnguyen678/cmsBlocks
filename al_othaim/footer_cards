@@ -1,0 +1,16 @@
+<div class="card-list">
+  
+  <span class="card-image-container">
+    <img src="https://alothaim.snaptec.co/assets/images/checkout-card/mada.svg" width="44" height="30">
+  </span>
+  <span class="card-image-container">
+    <img src="https://alothaim.snaptec.co/assets/images/checkout-card/visa.svg" width="44" height="30">
+  </span>
+  <span class="card-image-container">
+    <img src="https://alothaim.snaptec.co/assets/images/checkout-card/mastercard.svg" width="44" height="30">
+  </span>
+  <span class="card-image-container">
+    <img src="https://alothaim.snaptec.co/assets/images/checkout-card/cod.svg" width="44" height="30">
+  </span>
+   
+</div>
